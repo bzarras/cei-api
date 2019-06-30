@@ -1,0 +1,15 @@
+{
+  "name": "cei-api",
+  "version": "1.0.0",
+  "description": "API that serves CEI score for a given company name",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "Ben Zarras",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.18.0"
+  }
+}

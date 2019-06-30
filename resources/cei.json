@@ -1,0 +1,4446 @@
+[
+  {
+    "company": "3M Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "A.T. Kearney Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "A|X Armani Exchange",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Abbott Laboratories",
+    "cei_2019": "90"
+  },
+  {
+    "company": "AbbVie Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Abercrombie & Fitch Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "ABM Industries Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Accenture",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Activision Blizzard",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Adecco North America LLC",
+    "cei_2019": "70"
+  },
+  {
+    "company": "Adidas North America Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Adobe Systems Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "ADP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "ADT",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Advance Auto Parts (Advance Holding)",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Advanced Micro Devices Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "AECOM",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Aéropostale Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Aetna Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Aflac Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Agco",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Agilent Technologies Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "AIG",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Air Products & Chemicals Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Airbnb Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Airbus Americas Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Airgas Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "AirTran Holdings Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "AK Steel Holding Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Akamai Technologies Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Akerman LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Akin, Gump, Strauss, Hauer & Feld LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Alaska Airlines",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Alcoa Corp.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "AlixPartners LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Alleghany Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Alliance Data Systems Corp.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "AllianceBernstein LP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Alliant Energy Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Allianz Life Insurance Co. of North America",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Allscripts-Misys Healthcare Solutions Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Allstate Insurance Co.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Ally Financial Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Alston & Bird LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Altice USA, Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Altria Group Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Amazon.com Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "AMC Entertainment Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Ameren Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "American Airlines",
+    "cei_2019": "100"
+  },
+  {
+    "company": "American Apparel LLC",
+    "cei_2019": "80"
+  },
+  {
+    "company": "American Eagle Outfitters Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "American Electric Power Co. Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "American Express Company",
+    "cei_2019": "100"
+  },
+  {
+    "company": "American Express Global Business Travel",
+    "cei_2019": "100"
+  },
+  {
+    "company": "American Family Mutual Insurance Company, S.I",
+    "cei_2019": "100"
+  },
+  {
+    "company": "American Financial Group",
+    "cei_2019": "20"
+  },
+  {
+    "company": "American Tower Corp.",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Ameriprise Financial Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "AmerisourceBergen Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Amgen Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "AMN Healthcare Services, Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Amphenol Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "AmTrust Financial Services",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Anadarko Petroleum",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Anheuser-Busch Companies Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Anixter International Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Anschutz Entertainment Group, Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Anthem Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Aon Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Apache Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Apple Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Applied Materials Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "AQR Capital Management LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Aramark Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Archer Daniels Midland Co.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Arconic",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Arent Fox LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Armstrong Teasdale LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Arnold & Porter Kaye Scholer LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Arrow Electronics",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Arup USA Inc",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Asbury Automotive Group",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Ascena Retail Group Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Ashland Inc.",
+    "cei_2019": "40"
+  },
+  {
+    "company": "Assurant",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Astellas Pharma US Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "AstraZeneca PLC",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Asurion LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "AT&T Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "AthenaHealth Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Atlassian",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Austin Radiological Assn.",
+    "cei_2019": "30"
+  },
+  {
+    "company": "Autodesk Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Autoliv Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "AutoNation Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "AutoZone Inc.",
+    "cei_2019": "40"
+  },
+  {
+    "company": "Avaya Inc.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Avery Dennison",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Avis Budget Group Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Avnet Inc.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Avon Products Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "AXA Equitable Life",
+    "cei_2019": "100"
+  },
+  {
+    "company": "B J’s Wholesale Club",
+    "cei_2019": "85"
+  },
+  {
+    "company": "BAE Systems Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Bain & Co. Inc./ Bridgespan Group",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Baker & Hostetler LLP",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Baker & McKenzie LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Baker Botts LLP",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Baker Hughes Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Baker, Donelson, Bearman, Caldwell & Berkowitz PC",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Baldor Electric Co.",
+    "cei_2019": "25"
+  },
+  {
+    "company": "Ball Corp.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Ballard Spahr LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Bank of America Corp.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Bank of New York Mellon Corp., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Bank of the West",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Barclays",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Barilla America Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Barnes & Noble Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Barnes & Thornburg LLP",
+    "cei_2019": "80"
+  },
+  {
+    "company": "BASF Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Bass, Berry & Sims PLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Battelle Energy Alliance (Idaho National Laboratory)",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Baxter International Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Bayer U.S. LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "BB&T Corp.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Becton, Dickinson and Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Bed Bath & Beyond Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Ben & Jerry’s Homemade Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Berkshire Hathaway",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Berry Plastics Group Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Best Buy Co. Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Big Lots",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Biogen",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Black & Veatch Holding Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Black Knight Inc.",
+    "cei_2019": "70"
+  },
+  {
+    "company": "BlackRock",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Blackstone Group LP, The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Blank Rome LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Bloomberg LP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Bloomin’ Brands Inc.",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Blue Cross & Blue Shield of Rhode Island",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Blue Cross Blue Shield of Florida Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Blue Cross Blue Shield of Massachusetts",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Blue Cross Blue Shield of Michigan",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Blue Cross Blue Shield of Minnesota",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Blue Cross Blue Shield of North Carolina",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Blue Shield of California",
+    "cei_2019": "100"
+  },
+  {
+    "company": "BlueCross BlueShield of Tennessee",
+    "cei_2019": "100"
+  },
+  {
+    "company": "BMC HealthNet Plan",
+    "cei_2019": "50"
+  },
+  {
+    "company": "BMC Software Inc.",
+    "cei_2019": "45"
+  },
+  {
+    "company": "BMO Bankcorp Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "BNP Paribas",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Bob Evans Farms Inc.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Boehringer Ingelheim USA Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Boeing Co.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Boies Schiller Flexner LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Bon-Ton Stores Inc.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Books-A-Million Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Booz Allen Hamilton Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Borders Group Inc.",
+    "cei_2019": "30"
+  },
+  {
+    "company": "BorgWarner Inc.",
+    "cei_2019": "40"
+  },
+  {
+    "company": "Boston Consulting Group",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Boston Scientific Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Box Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "BP America Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Bracewell LLP",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Bridgestone Americas Holding Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Bright Horizons",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Brinker International Inc.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Bristol-Myers Squibb Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Broadridge Financial Solutions Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Brooks Brothers Group Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Brooks Sports Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Brown Brothers Harriman & Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Brown Rudnick LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Brown-Forman Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Bryan Cave Leighton Paisner LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Buchanan Ingersoll & Rooney PC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Buckley LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Burger King Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Burlington Northern Santa Fe Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Burlington Store Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Burr & Forman LLP",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Buzzfeed",
+    "cei_2019": "100"
+  },
+  {
+    "company": "C&S Wholesale Grocers Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "C. H. Robinson Worldwide",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Cadwalader, Wickersham & Taft LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Caesars Entertainment Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Caleres",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Calpine Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Cambia Health Solutions Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Campbell Soup Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Capgemini America, INC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Capital Area Services Company, LLC (CASCI)",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Capital Group Companies Inc., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Capital Markets Company NV, The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Capital One Financial Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Cardinal Health Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "CareFirst Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Cargill Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Cargo Transporters Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Caribou Coffee Company Inc.",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Carlson Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Carlton Fields P.A.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Carlyle Group LP, The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "CarMax Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Carnival Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "CBRE Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "CBS Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "CDW Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Celanese Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Celgene Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Centene Corp.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "CenterPoint Energy Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "CenturyLink Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Cerner Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Change Healthcare",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Chapman and Cutler LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Charles Schwab & Co. Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Charter Communications",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Chesapeake Energy Corp.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Chevron Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "CHG Healthcare Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Chipotle Mexican Grill Inc.",
+    "cei_2019": "70"
+  },
+  {
+    "company": "Choate, Hall & Stewart LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Chobani",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Choice Hotels International Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "CHS Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Chubb Ltd.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "CIGNA Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Cisco Systems Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "CIT Group Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Citigroup Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Citizens Financial Group",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Citrix Systems Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Cleary Gottlieb Steen & Hamilton LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Clifford Chance US LLP",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Clorox Co., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Cloudera Inc.",
+    "cei_2019": "70"
+  },
+  {
+    "company": "CME Group Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "CNA Financial Corporation",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Coca-Cola Co., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Cognizant Technology Solutions Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Colgate-Palmolive Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Columbia Pipeline Group",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Comcast NBCUniversal",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Comerica Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Community Health Systems, Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Compass Bancshares Inc. (BBVA Compass)",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Compass Group USA Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Computer Sciences Corp. (CSC)",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Conagra Brands Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "ConocoPhillips",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Consolidated Edison Co.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Constellation Brands Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Constellation Energy Group Inc.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "CONSUMER REPORTS INC.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Consumers Energy",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Convio Inc.",
+    "cei_2019": "45"
+  },
+  {
+    "company": "Cooley LLP",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Cooper Tire & Rubber Co.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Corbis Corp.",
+    "cei_2019": "35"
+  },
+  {
+    "company": "CoreLogic",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Core-Mark Holding Company Inc.",
+    "cei_2019": "25"
+  },
+  {
+    "company": "Corning",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Cosmopolitan of Las Vegas, The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Costco Wholesale Corp.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Covington & Burling LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Cox Enterprises Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Cozen O’Connor",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Cracker Barrel Old Country Store Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Crate and Barrel / CB2",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Cravath, Swaine & Moore LLP",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Credit Suisse USA Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Crowell & Moring LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Crown Holdings",
+    "cei_2019": "10"
+  },
+  {
+    "company": "CSAA Insurance Group",
+    "cei_2019": "100"
+  },
+  {
+    "company": "CST Brands",
+    "cei_2019": "10"
+  },
+  {
+    "company": "CSX Corp.",
+    "cei_2019": "70"
+  },
+  {
+    "company": "Cummins Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "CUNA Mutual Group",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Cushman & Wakefield Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "CVS Health Corp.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Daimler Trucks North America LLC",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Dana Inc.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Danaher Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Daniel J. Edelman Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Danone North America",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Darden Restaurants Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Davis Polk & Wardwell LLP",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Davis Wright Tremaine LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "DaVita Inc.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Day Pitney LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Dean Foods Co.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Debevoise & Plimpton LLP",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Dechert LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Deere & Co.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Delek US Holdings",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Dell Technologies Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Deloitte LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Delta Air Lines Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Denny’s Corp.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Dentons US LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Depository Trust & Clearing Corp., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Deutsche Bank",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Devon Energy Corp.",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Diageo North America",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Dickinson Wright PLLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Dick’s Sporting Goods Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Digitas",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Discover Financial Services",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Discovery Communications Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "DISH Network Corp.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "DLA Piper",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Dollar General Corp.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Dollar Tree Stores Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Dominion Energy",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Domino’s Pizza Inc.",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Dorsey & Whitney LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Dover Corp.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Dow Chemical Co., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "DR Horton Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Drinker Biddle & Reath LLP",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Dropbox Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "DSW",
+    "cei_2019": "90"
+  },
+  {
+    "company": "DTE Energy Co.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Duane Morris LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Duke Energy Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Dun & Bradstreet Corp., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Dunkin’ Brands Group Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "DXC Technology",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Dykema Gossett PLLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "E&J Gallo Winery",
+    "cei_2019": "100"
+  },
+  {
+    "company": "E*TRADE Financial Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "E. I. du Pont de Nemours and Co. (DuPont)",
+    "cei_2019": "100"
+  },
+  {
+    "company": "EAB",
+    "cei_2019": "100"
+  },
+  {
+    "company": "EarthLink Inc.",
+    "cei_2019": "35"
+  },
+  {
+    "company": "Eastern Bank Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Eastman Chemical Co.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Eastman Kodak Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Eaton Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "eBay Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Ecolab Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Edison International",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Edward Jones",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Electronic Arts Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Eli Lilly & Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "EMCOR Group Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Emerson Electric Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Emmis Communications Corporation",
+    "cei_2019": "30"
+  },
+  {
+    "company": "Enbridge",
+    "cei_2019": "70"
+  },
+  {
+    "company": "Energy Transfer Equity L.P.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Entergy Corp.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Enterprise Holdings Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "EOG Resources",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Epstein Becker & Green PC",
+    "cei_2019": "70"
+  },
+  {
+    "company": "Erie Insurance Group",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Ernst & Young LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Essendant Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Estée Lauder Companies Inc., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Esurance Inc.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Ethan Allen Interiors Inc.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Eventbrite Inc.",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Eversheds Sutherland (US) LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Eversource Energy",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Excellus Health Plan Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Exelon Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Expedia Group",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Expeditors International of Washington Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Experian Americas",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Express Scripts Holding Company",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Exxon Mobil Corp.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Facebook Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "FactSet Research Systems Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Faegre Baker Daniels",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Farmers Insurance Group",
+    "cei_2019": "100"
+  },
+  {
+    "company": "FCA US LLC",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Federal Home Loan Mortgage Corp. (Freddie Mac)",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Federal National Mortgage Association (Fannie Mae)",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Federal Reserve Bank of Atlanta",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Federal Reserve Bank of Boston",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Federal Reserve Bank of Chicago",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Federal Reserve Bank of Cleveland",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Federal Reserve Bank of Minneapolis",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Federal Reserve Bank of New York",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Federal Reserve Bank of Philadelphia",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Federal Reserve Bank of Richmond",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Federal Reserve Bank of San Francisco",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Federal Reserve Bank of St Louis",
+    "cei_2019": "100"
+  },
+  {
+    "company": "FedEx Corp.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Fenwick & West LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Fidelity Investments",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Fidelity National Financial Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Fidelity National Information Services Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Fifth Third Bancorp",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Financial Industry Regulatory Authority Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Finnegan, Henderson, Farabow, Garrett & Dunner LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "First American Financial Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "First Data Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "First Horizon National Corp.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "FirstEnergy Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Fiserv Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Fish & Richardson PC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Fleishman-Hillard Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Fluor Corp.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Foley & Lardner LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Foley Hoag LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Food Lion",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Foot Locker Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Ford Motor Co.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Fortive Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Fossil Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Fox Corporation",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Fox Rothschild LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Franklin Templeton Investments",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Fredrikson & Byron",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Freeport-McMoRan Copper & Gold Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Freescale Semiconductor Inc.",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Fried, Frank, Harris, Shriver & Jacobson LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Frontier Communications",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Frost Brown Todd LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Galloway, Johnson, Tompkins, Burr & Smith PLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "GameStop Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Gannett Co. Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Gap Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Gartner Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Gastronomy Inc.",
+    "cei_2019": "25"
+  },
+  {
+    "company": "GE Appliances",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Genentech Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "General Dynamics Corp.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "General Electric Co.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "General Mills Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "General Motors Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Genesco Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Genesis HealthCare Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Genworth Financial Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Giant Eagle Inc.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "GIANT Food Stores, LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Giant of Maryland, LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Gibson, Dunn & Crutcher LLP",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Gilead Sciences Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "GlaxoSmithKline LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Global Partners",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Global Payments Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "GODADDY Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Goldman Sachs Group Inc., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Goodwin Procter LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Goodyear Tire & Rubber Co.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Google Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Gordon Rees Scully Mansukhani, LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Goulston & Storrs",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Graham Holdings",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Grant Thornton LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Graybar Electric Company Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Great River Energy",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Greenberg Traurig LLP",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Group 1 Automotive",
+    "cei_2019": "25"
+  },
+  {
+    "company": "Groupon Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Guardian Life Insurance Co. of America, The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Guess? Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "H&M Hennes & Mauritz AB",
+    "cei_2019": "45"
+  },
+  {
+    "company": "H&R Block Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "H.E. Butt Grocery Co.",
+    "cei_2019": "30"
+  },
+  {
+    "company": "Hachette Book Group",
+    "cei_2019": "40"
+  },
+  {
+    "company": "Hain Celestial Group Inc., The",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Hallmark Cards Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Hanesbrands Inc.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Hannaford Supermarkets",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Hanover Insurance Group Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Harley-Davidson Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Harris Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Hartford Financial Services Group Inc., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Harvard Pilgrim Health Care Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Hasbro Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Hawaiian Airlines Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Haynes and Boone LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "HCA - Hospital Corporation of America",
+    "cei_2019": "70"
+  },
+  {
+    "company": "HD Supply",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Health Care Service Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Henry Schein Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "HERE North America LLC",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Herman Miller Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Herrick Feinstein LLP",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Hershey Co., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Hertz Global Holdings Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Hess Corp.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Hewlett Packard Enterprise Co.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Highmark Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Hilti Inc.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Hilton Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Hinshaw & Culbertson LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Hitachi Consulting Corp.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Hogan Lovells US LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Holland & Hart LLP",
+    "cei_2019": "35"
+  },
+  {
+    "company": "Holland & Knight LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "HollyFrontier Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Home Depot Inc., The",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Honda North America Inc.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Honeywell International Inc.",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Horizon Healthcare Services Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Hormel Foods Corp.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Hortonworks Inc.",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Host Hotels & Resorts Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Houghton Mifflin Harcourt Co.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Howard & Howard Attorneys PLLC",
+    "cei_2019": "65"
+  },
+  {
+    "company": "HP Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "HRG Group",
+    "cei_2019": "10"
+  },
+  {
+    "company": "HSBC USA",
+    "cei_2019": "100"
+  },
+  {
+    "company": "HSN Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Hughes Hubbard & Reed LLP",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Humana Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Huntington Bancshares Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Huntington Ingalls Industries",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Hunton Andrews Kurth LLP",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Huntsman Corp.",
+    "cei_2019": "45"
+  },
+  {
+    "company": "Huron Consulting Group Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Husch Blackwell LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Hyatt Hotels Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Hyundai Motor America",
+    "cei_2019": "100"
+  },
+  {
+    "company": "IAC/InterActiveCorp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "IBM Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Ice Miller LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "iHeartMedia Inc.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "IHS Markit Ltd.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "IKEA Holding US Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Illinois Tool Works Inc.",
+    "cei_2019": "30"
+  },
+  {
+    "company": "Imation Corp.",
+    "cei_2019": "30"
+  },
+  {
+    "company": "Indeed Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Informa PLC",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Infosys Limited Inc.",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Ingersoll-Rand Company",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Ingram Micro",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Insight Enterprises Inc.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Instacart Inc.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Intel Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "InterContinental Hotels Group Americas",
+    "cei_2019": "100"
+  },
+  {
+    "company": "International Flavors & Fragrances",
+    "cei_2019": "100"
+  },
+  {
+    "company": "International Paper Co.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Interpublic Group of Companies Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "INTL FCStone Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Intuit Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Invesco Ltd.",
+    "cei_2019": "45"
+  },
+  {
+    "company": "Iron Mountain Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "ITT Corp.",
+    "cei_2019": "25"
+  },
+  {
+    "company": "J. B. Hunt Transport Services Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "J. Crew Group Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "J. M. Smucker Co.",
+    "cei_2019": "55"
+  },
+  {
+    "company": "J.C. Penney Co. Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Jabil Circuit Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Jackson Walker LLP",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Jacobs Engineering Group Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Janus Henderson Investors",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Jenner & Block LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "JetBlue Airways Corp.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "JLL",
+    "cei_2019": "100"
+  },
+  {
+    "company": "John Hancock Financial Services Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "John Wiley & Sons Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Johnson Controls Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "K&L Gates LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Kaiser Permanente",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Kate Spade & Company",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Katten Muchin Rosenman LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "KB Home",
+    "cei_2019": "35"
+  },
+  {
+    "company": "Kelley Drye & Warren LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Kellogg Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Kelly Services Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Kenneth Cole Productions Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "KeyBank",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Kilpatrick Townsend & Stockton LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Kimberly-Clark Corp.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Kimpton Hotel & Restaurant Group LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Kinder Morgan Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Kindred Healthcare",
+    "cei_2019": "70"
+  },
+  {
+    "company": "King & Spalding LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Kirkland & Ellis LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "KKR & Co. LP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "KLA-Tencor Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Kohler Co.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Kohl’s Corp.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Komatsu Mining Corp.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Korn/Ferry International",
+    "cei_2019": "100"
+  },
+  {
+    "company": "KPMG LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Kraft Heinz Company, The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Kramer Levin Naftalis & Frankel LLP",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Kroger Co., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Kutak Rock LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "L Brands Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "L.L. Bean Inc.",
+    "cei_2019": "40"
+  },
+  {
+    "company": "L-3 Communications Holdings",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Laboratory Corporation of America Holdings",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Laclede Group Inc., The",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Land O’Lakes Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Lane Powell PC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Las Vegas Sands Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Latham & Watkins LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Lathrop Gage LLP",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Lear Corp.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "LeClairRyan",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Legg Mason Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Leidos Holdings",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Lendlease Americas Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Lennar Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "LENOVO (UNITED STATES) INC.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Leo Burnett Company Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Levi Strauss & Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "LexisNexis Group",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Lexmark International Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Liberty Global Inc.",
+    "cei_2019": "15"
+  },
+  {
+    "company": "Liberty Mutual Group",
+    "cei_2019": "100"
+  },
+  {
+    "company": "LifePoint Health",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Lincoln National Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "LinkedIn",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Lions Gate Entertainment Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Lithia Motors, Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Littler Mendelson PC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Live Nation Entertainment Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "LKQ Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Locke Lord LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Lockheed Martin Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Loeb & Loeb LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Loews Corp.",
+    "cei_2019": "55"
+  },
+  {
+    "company": "L’Oréal USA Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Lowenstein Sandler LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Lowe’s Companies Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "LPL Financial Holdings Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Lubrizol Corp.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Lyft Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "M&T Bank Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Macquarie Group Ltd.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Macy’s Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Mallinckrodt LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Manatt, Phelps & Phillips LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "ManpowerGroup",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Marathon Oil Corp.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Marathon Petroleum Corp.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Marriott International Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Mars Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Marsh & McLennan Companies Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Masco Corp.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Massachusetts Mutual Life Insurance Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Mastercard",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Mattel Inc.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Mayer Brown LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "MB Financial Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "McCarter & English LLP",
+    "cei_2019": "75"
+  },
+  {
+    "company": "McCormick & Company Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "McDermott Will & Emery LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "McDonald’s Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "McGraw-Hill Global Education Holdings LLC",
+    "cei_2019": "70"
+  },
+  {
+    "company": "McGuireWoods LLP",
+    "cei_2019": "80"
+  },
+  {
+    "company": "McKesson Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "McKinsey & Co. Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Medallia Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Medidata Solutions Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Medtronic PLC",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Meijer Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Mercedes-Benz Financial Services USA LLC (MBFS)",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Merck",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Mesirow Financial Holdings Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "MetLife Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "MGM Resorts International",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Michael Best & Friedrich LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Micron Technology Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Microsoft Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Milbank LLP",
+    "cei_2019": "90"
+  },
+  {
+    "company": "MillerCoors LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Mintz, Levin, Cohn, Ferris, Glovsky & Popeo PC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Mitchell Gold + Bob Williams",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Molina Healthcare Inc.",
+    "cei_2019": "40"
+  },
+  {
+    "company": "Mondelez International Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Montgomery McCracken Walker & Rhoads LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Moody’s Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Moore & Van Allen PLLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Morgan Stanley",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Morgan, Lewis & Bockius LLP",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Morningstar Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Morris, Manning & Martin LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Morrison & Foerster LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Mosaic Co.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Motorola Solutions Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Mozilla Corporation",
+    "cei_2019": "95"
+  },
+  {
+    "company": "MSLGROUP Americas",
+    "cei_2019": "100"
+  },
+  {
+    "company": "MUFG Union Bank, N.A.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Munger, Tolles & Olson LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Mutual of Omaha Insurance",
+    "cei_2019": "90"
+  },
+  {
+    "company": "NASDAQ Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "National CineMedia Inc.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "National Grid USA",
+    "cei_2019": "85"
+  },
+  {
+    "company": "National Oilwell Varco Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Nationwide",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Navient",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Navigant Consulting Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Navistar International Corp.",
+    "cei_2019": "70"
+  },
+  {
+    "company": "NCR Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Nelson Mullins Riley & Scarborough LLP",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Nestle Purina PetCare Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Nestle USA Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Nestle Health Science",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Nestle Waters North America Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "NetApp Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Netflix Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "New Relic Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "New York Life Insurance Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "New York Times Co.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Newell Brands Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Newmont Mining Corporation",
+    "cei_2019": "95"
+  },
+  {
+    "company": "NextEra Energy Inc.",
+    "cei_2019": "50"
+  },
+  {
+    "company": "NGL Energy Partners",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Nielsen",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Nike Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "NiSource Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Nissan North America Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Nixon Peabody LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Nokia Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Nomura",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Nordstrom Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Norfolk Southern Corp.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Nortel Networks Corp.",
+    "cei_2019": "30"
+  },
+  {
+    "company": "North Memorial Health",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Northern Trust Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Northfield Park Associates, LLC",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Northrop Grumman Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Northwestern Mutual Life Insurance",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Norton Rose Fulbright",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Novartis Pharmaceuticals Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Novo Nordisk Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "NRG Energy Inc.",
+    "cei_2019": "40"
+  },
+  {
+    "company": "Nuance Communications",
+    "cei_2019": "100"
+  },
+  {
+    "company": "NVIDIA Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Occidental Petroleum",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Ocean Spray Cranberries Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Office Depot Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Ogilvy Group Inc., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Ogletree, Deakins, Nash, Smoak & Stewart",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Old Republic International",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Olin Corporation",
+    "cei_2019": "20"
+  },
+  {
+    "company": "O’Melveny & Myers LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Omnicom Group",
+    "cei_2019": "100"
+  },
+  {
+    "company": "ONE Gas Inc.",
+    "cei_2019": "40"
+  },
+  {
+    "company": "ONEOK Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "OppenheimerFunds Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Oracle Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "O’Reilly Automotive Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Orrick, Herrington & Sutcliffe LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Oscar Insurance Corporation",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Oshkosh Corp.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Outerwall Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Overstock.com Inc.",
+    "cei_2019": "70"
+  },
+  {
+    "company": "Owens & Minor Inc.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Owens Corning",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Owens-Illinois Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Paccar Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Pacific Life Insurance Co.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Pacific Medical Centers",
+    "cei_2019": "35"
+  },
+  {
+    "company": "Packaging Corporation of America",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Palm Management Corp.",
+    "cei_2019": "30"
+  },
+  {
+    "company": "Palo Alto Networks",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Pandora Media Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Panera Bread Co.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Pariveda Solutions Inc.",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Parker Hannifin Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Patterson Belknap Webb & Tyler LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Patterson Companies (Patterson Dental Supply)",
+    "cei_2019": "40"
+  },
+  {
+    "company": "Paul Hastings LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Paul, Weiss, Rifkind, Wharton & Garrison LLP",
+    "cei_2019": "85"
+  },
+  {
+    "company": "PayPal Holdings Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "PBF Energy",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Peabody",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Pearson Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Pep Boys-Manny, Moe & Jack",
+    "cei_2019": "30"
+  },
+  {
+    "company": "Pepper Hamilton LLP",
+    "cei_2019": "85"
+  },
+  {
+    "company": "PepsiCo Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Performance Food Group Co.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Perkins + Will Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Perkins Coie LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Pernod Ricard USA LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Peter Kiewit Sons’ Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "PetSmart Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Pfizer Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "PG&E Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Philip Morris International Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Phillips 66",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Pillsbury Winthrop Shaw Pittman LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "PIMCO LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Pinnacle West Capital",
+    "cei_2019": "70"
+  },
+  {
+    "company": "Pinterest Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Pitney Bowes Inc.",
+    "cei_2019": "55"
+  },
+  {
+    "company": "PNC Financial Services Group Inc., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "PNM Resources Inc.",
+    "cei_2019": "45"
+  },
+  {
+    "company": "Polsinelli",
+    "cei_2019": "100"
+  },
+  {
+    "company": "PolyOne Corporation",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Portland General Electric Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "PPG Industries Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "PPL Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Praxair Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "priceline.com LLC",
+    "cei_2019": "55"
+  },
+  {
+    "company": "PricewaterhouseCoopers LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Principal Financial Group",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Procter & Gamble Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Progressive Corp., The",
+    "cei_2019": "80"
+  },
+  {
+    "company": "PROS",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Proskauer Rose LLP",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Prudential Financial Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Public Service Enterprise Group",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Publicis Healthcare",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Publicis Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Publicis Media",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Publicis Sapient",
+    "cei_2019": "100"
+  },
+  {
+    "company": "PulteGroup Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "PVH Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Quaintance-Weaver Management, LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "QUALCOMM Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Quanta Services",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Quantcast Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Quarles & Brady LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Quest Diagnostics Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Quinn Emanuel Urquhart & Sullivan LLP",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Quintiles Transnational",
+    "cei_2019": "20"
+  },
+  {
+    "company": "R.R. Donnelley & Sons Co.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Rackspace",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Ralph Lauren Corp.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Raymond James Financial Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Raytheon Co.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "RB",
+    "cei_2019": "15"
+  },
+  {
+    "company": "RBC Capital Markets LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "RBC Wealth Management",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Re:Sources USA Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Realogy Holdings Corp.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Recreational Equipment Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Redfin Corp.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Reed Smith LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Regal Entertainment Group",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Regions Financial Corp.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Regis Corp.",
+    "cei_2019": "15"
+  },
+  {
+    "company": "Reinhart Boerner Van Deuren s.c.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Reinsurance Group of America Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Reliance Steel & Aluminum Co.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Replacements Ltd.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Republic Services Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Retail Business Services",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Reynolds American Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "RingCentral Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Rite Aid Corp.",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Robert Bosch Corp.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Robert Half",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Robert W. Baird & Co. Incorporated",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Robins Kaplan LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Rockland Trust Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Rockwell Automation Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Rolls-Royce North America (USA) Holdings Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Ropes & Gray LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Rosetta LLC",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Ross Stores Inc.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Royal Caribbean Cruises Ltd.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Royal Phillips",
+    "cei_2019": "75"
+  },
+  {
+    "company": "RSM US LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Ryder System Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Ryland Group Inc., The",
+    "cei_2019": "15"
+  },
+  {
+    "company": "S&P Global Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "S.C. Johnson & Son Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Saatchi & Saatchi North America Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sabre Holdings Inc.",
+    "cei_2019": "45"
+  },
+  {
+    "company": "Saint-Gobain Corp.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Saks Inc.",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Salesforce",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sanderson Farms Inc.",
+    "cei_2019": "30"
+  },
+  {
+    "company": "Sanofi",
+    "cei_2019": "100"
+  },
+  {
+    "company": "SAP America Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Saul Ewing Arnstein & Lehr LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sbe",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Schiff Hardin LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Schneider Electric",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Scholastic Corp.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Schulte, Roth & Zabel LLP",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Science Applications International Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Seaboard Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Seagate Technology plc",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sealed Air Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Sears Holdings Corp.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Sedgwick LLP",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Selective Insurance Group",
+    "cei_2019": "35"
+  },
+  {
+    "company": "Sempra Energy",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sephora",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Severn Trent Services Inc.",
+    "cei_2019": "15"
+  },
+  {
+    "company": "Seyfarth Shaw LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Shake Shack Inc",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Shearman & Sterling LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Shell Oil Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sheppard, Mullin, Richter & Hampton LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sherwin-Williams Co., The",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Shook, Hardy & Bacon LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sidley Austin LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Siemens Healthineers",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Siemens Corp.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Simpson Thacher & Bartlett LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "SIRIUS XM Radio Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Skadden, Arps, Slate, Meagher & Flom LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "SkyWest Airlines Inc.",
+    "cei_2019": "70"
+  },
+  {
+    "company": "Slalom",
+    "cei_2019": "100"
+  },
+  {
+    "company": "SLM Corp. (Sallie Mae)",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Snagajob.com Inc.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Snell & Wilmer",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Societe Generale",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sodexo Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Softchoice Corp.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Software AG USA Inc.",
+    "cei_2019": "40"
+  },
+  {
+    "company": "Software House International",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Sonoco Products Company",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Sony Computer Entertainment America LLC",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Sony Corporation of America",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sony Electronics Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sony Pictures Entertainment Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Southern California Edison Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Southern Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Southwest Airlines Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "SpartanNash",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Spirit AeroSystems Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Sprint Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Squarespace",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Squire Patton Boggs",
+    "cei_2019": "100"
+  },
+  {
+    "company": "SRA International Inc.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "St. Jude Medical Inc.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Standard Chartered",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Standard Insurance Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Stanley Black & Decker Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Staples Inc.",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Starbucks Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "State Farm Group",
+    "cei_2019": "100"
+  },
+  {
+    "company": "State Street Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Steel Dynamics Inc.",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Steelcase Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Steptoe & Johnson LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Stinson Leonard Street LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Stoel Rives LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Stryker Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Subaru of America Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sullivan & Cromwell LLP",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Sumitomo Mitsui Banking Corporation",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Sun Life Financial Inc. (US)",
+    "cei_2019": "100"
+  },
+  {
+    "company": "SunPower Corp.",
+    "cei_2019": "45"
+  },
+  {
+    "company": "Sunrun Inc.",
+    "cei_2019": "70"
+  },
+  {
+    "company": "SunTrust Banks Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Supervalu Inc.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Symantec Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Synchrony",
+    "cei_2019": "100"
+  },
+  {
+    "company": "SYNNEX Corp.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "SYSCO Corp.",
+    "cei_2019": "65"
+  },
+  {
+    "company": "T. Rowe Price Associates Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Tailored Brands Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Takeda Pharmaceuticals USA Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Tapestry, Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Target Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "TD Ameritrade",
+    "cei_2019": "100"
+  },
+  {
+    "company": "TD Bank, N.A.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "TD Securities (USA) LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "TE Connectivity Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Tech Data Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "TEGNA Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "TENET Healthcare Corporation",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Tenneco Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Terex Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Tesla Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Teva Pharmaceutical USA Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Texas Instruments Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Textron Inc.",
+    "cei_2019": "30"
+  },
+  {
+    "company": "The Auto Club Group",
+    "cei_2019": "60"
+  },
+  {
+    "company": "The Bama Companies Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "The Chemours Company",
+    "cei_2019": "75"
+  },
+  {
+    "company": "The Marmon Group, Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "The Michaels Companies Inc.",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Thermo Fisher Scientific Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Thompson Coburn LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Thompson Hine LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Thomson Reuters",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Thrivent Financial",
+    "cei_2019": "80"
+  },
+  {
+    "company": "TIAA",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Tiffany & Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "TJX Companies Inc., The",
+    "cei_2019": "90"
+  },
+  {
+    "company": "T-Mobile USA Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Toll Brothers Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Toyota Motor North America Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "TPG Global LLC",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Tractor Supply Company",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Transamerica Corp., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "TransUnion",
+    "cei_2019": "100"
+  },
+  {
+    "company": "TravelCenters of America",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Travelers Companies Inc., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Travelport Ltd.",
+    "cei_2019": "45"
+  },
+  {
+    "company": "TreeHouse Foods Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "TripAdvisor Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Tropicana Las Vegas, The",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Troutman Sanders LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "True Value Co.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Truven Health Analytics Inc.",
+    "cei_2019": "55"
+  },
+  {
+    "company": "Tufts Health Plan",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Turner Construction Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Twitter Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Tyson Foods Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "U.S. Bancorp",
+    "cei_2019": "100"
+  },
+  {
+    "company": "U.S. Cellular",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Uber Technologies Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "UBM plc",
+    "cei_2019": "85"
+  },
+  {
+    "company": "UBS AG",
+    "cei_2019": "100"
+  },
+  {
+    "company": "UGI Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Ultimate Software",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Under Armour Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Unilever",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Union Pacific Corp.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "Unisys Corp.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "United Airlines",
+    "cei_2019": "100"
+  },
+  {
+    "company": "United Natural Foods Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "United Parcel Service Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "United Rentals Inc.",
+    "cei_2019": "50"
+  },
+  {
+    "company": "United Services Automobile Association",
+    "cei_2019": "100"
+  },
+  {
+    "company": "United States Steel Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "United Technologies Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "UnitedHealth Group Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Univar Inc.",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Universal Health Services, Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "University of Phoenix",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Univision Communications Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Unum Group",
+    "cei_2019": "100"
+  },
+  {
+    "company": "UPMC Health Plan",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Urban Outfitters Inc.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "US Foods Inc.",
+    "cei_2019": "45"
+  },
+  {
+    "company": "USG Corp.",
+    "cei_2019": "40"
+  },
+  {
+    "company": "Valero Energy Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Vanguard Group Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Veritas Technologies LLC",
+    "cei_2019": "60"
+  },
+  {
+    "company": "Veritiv",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Verizon Communications Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "VF Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Viacom Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Vinson & Elkins LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Virgin America",
+    "cei_2019": "65"
+  },
+  {
+    "company": "Virgin Orbit",
+    "cei_2019": "50"
+  },
+  {
+    "company": "Visa",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Vision Service Plan",
+    "cei_2019": "45"
+  },
+  {
+    "company": "Visteon Corp.",
+    "cei_2019": "70"
+  },
+  {
+    "company": "Vistra Energy",
+    "cei_2019": "20"
+  },
+  {
+    "company": "VMware Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Volkswagen Group of America Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Vorys, Sater, Seymour and Pease LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Vox Media Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Voya Financial",
+    "cei_2019": "100"
+  },
+  {
+    "company": "W.R. Berkley",
+    "cei_2019": "10"
+  },
+  {
+    "company": "W.W. Grainger Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Wachtell, Lipton, Rosen & Katz",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Waddell & Reed Financial Inc.",
+    "cei_2019": "45"
+  },
+  {
+    "company": "Walgreen Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Walmart Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Walt Disney Co., The",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Warby Parker",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Warner Media",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Washington Permanente Medical Group",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Waste Management Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Wawa Inc.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "WE Communications",
+    "cei_2019": "100"
+  },
+  {
+    "company": "WEC Energy Group",
+    "cei_2019": "40"
+  },
+  {
+    "company": "WeddingWire Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Weil, Gotshal & Manges LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "WellCare Health Plans Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Wellmark Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Wells Fargo & Co.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Wendy’s Co., The",
+    "cei_2019": "80"
+  },
+  {
+    "company": "WESCO International Inc.",
+    "cei_2019": "40"
+  },
+  {
+    "company": "West Corp.",
+    "cei_2019": "80"
+  },
+  {
+    "company": "West Monroe Partners LLC",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Western Digital Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Western Union Co., The",
+    "cei_2019": "50"
+  },
+  {
+    "company": "WestRock",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Weyerhaeuser Co.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Whirlpool Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "White & Case LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Wiley Rein LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Williams Companies Inc.",
+    "cei_2019": "70"
+  },
+  {
+    "company": "Williams Mullen",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Williams-Sonoma Inc.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Willis Towers Watson",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Willkie Farr & Gallagher LLP",
+    "cei_2019": "85"
+  },
+  {
+    "company": "Wilmer Cutler Pickering Hale & Dorr LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Wilson Sonsini Goodrich & Rosati PC",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Windstream Corp.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Winn-Dixie Stores Inc.",
+    "cei_2019": "35"
+  },
+  {
+    "company": "Winston & Strawn LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Wipro Ltd.",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Womble Bond Dickinson (US) LLP",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Workday Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "World Fuel Services",
+    "cei_2019": "20"
+  },
+  {
+    "company": "WPP Group USA",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Wyndham Destinations",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Wyndham Hotels & Resorts Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Wynn Resorts Ltd.",
+    "cei_2019": "90"
+  },
+  {
+    "company": "Xcel Energy Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Xerox Corp.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "XPO Logistics",
+    "cei_2019": "20"
+  },
+  {
+    "company": "Xylem Inc.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "Yelp Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Young’s Market Co.",
+    "cei_2019": "75"
+  },
+  {
+    "company": "YRC Worldwide Inc.",
+    "cei_2019": "10"
+  },
+  {
+    "company": "Yum China Holdings",
+    "cei_2019": "15"
+  },
+  {
+    "company": "Yum! Brands Inc.",
+    "cei_2019": "70"
+  },
+  {
+    "company": "Zillow Group",
+    "cei_2019": "95"
+  },
+  {
+    "company": "Zimmer Holdings Inc.",
+    "cei_2019": "20"
+  },
+  {
+    "company": "ZS Associates Inc.",
+    "cei_2019": "100"
+  },
+  {
+    "company": "Zurich North America",
+    "cei_2019": "80"
+  }
+]
